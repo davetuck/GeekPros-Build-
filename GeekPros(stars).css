@@ -109,7 +109,7 @@ strong {
   background-color: rgb(41, 111, 246);
   transition: 250ms;
   cursor: pointer;
-  font-size: 15px;
+  font-size: 18px;
 }
 
 .button__quote:hover {
